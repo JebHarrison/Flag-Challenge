@@ -1,6 +1,6 @@
-.card {
+.effect {
     width: 300px;
     height: 200px;
-    position: center;
+    background: url("images/German-Flag.jpg.png")
 }
 
