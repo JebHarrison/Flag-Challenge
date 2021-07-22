@@ -4,6 +4,6 @@
     background: url("images/German-Flag.jpg.png")
 }
 
-.effect:hover {
-    background: url(images/Hungarianflag.png);
+.card:hover {
+    background: url("images/Hungarianflag.png");
 }
