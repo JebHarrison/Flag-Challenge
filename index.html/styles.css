@@ -1,11 +1,4 @@
-.card img {
-    width: 300px;
-    height: 200px;
-    background: url("images/German-Flag.jpg.png")
-    
-}
-
-.card:hover {
-    background-image: url("images/Irishflag.png");
+div {
+    background-color: black;
 }
 
