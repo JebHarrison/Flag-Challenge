@@ -6,9 +6,6 @@
 }
 
 .card:hover {
-    background: url("images/Hungarianflag.png");
+    background-image: url("images/Irishflag.png");
 }
 
-.card img:hover {
-    background: url("images/Irishflag.png");
-}
