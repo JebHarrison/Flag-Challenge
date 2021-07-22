@@ -1,6 +1,9 @@
-.effect {
+.card img {
     width: 300px;
     height: 200px;
     background: url("images/German-Flag.jpg.png")
 }
 
+.effect:hover {
+    background: url(images/Hungarianflag.png);
+}
