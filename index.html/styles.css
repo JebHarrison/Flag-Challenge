@@ -8,3 +8,7 @@
 .card:hover {
     background: url("images/Hungarianflag.png");
 }
+
+.card img:hover {
+    background: url("images/Irishflag.png");
+}
