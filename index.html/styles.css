@@ -12,12 +12,18 @@
 
 .child-one {
     background-color: blue;
+    height: 100px;
+    width: 100px;
 }
 
 .child-two {
     background-color:white;
+    height: 100px;
+    width: 100px;
 }
 
 .child-three {
     background-color: red;
+    height: 100px;
+    width: 100px;
 }
