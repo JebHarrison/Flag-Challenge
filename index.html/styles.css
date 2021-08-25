@@ -1,18 +1,28 @@
 .child {
     background-color: black;
     color: white;
+    width: 100px;
+    height: 33px;
+
 }
 
 .child-1 {
     background-color: red;
+    width: 100px;
+    height: 33px;
 }
 
 .child-2 {
     background-color: orange;
+    width: 100px;
+    height: 33px;
 }
 
 .France {
     background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 
 }
 
